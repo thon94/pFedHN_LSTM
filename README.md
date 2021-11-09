@@ -13,5 +13,6 @@ Setup and running guide:
 
 1. Simply download and setup pFedHN as in https://github.com/AvivSham/pFedHN, then copy the scripts to the directory /experiments/pfedhn
 
-2. Try executing "HRFL_trainer.py" and modifying the data path
+2. Download the France dataset at https://drive.google.com/file/d/1znvgL6q2bK58fR_h3UP_AoCvfkhqqee7/view?usp=sharing
 
+3. Try executing "HRFL_trainer.py" and modifying the data path
